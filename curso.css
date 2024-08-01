@@ -1,0 +1,13 @@
+
+main{
+    color: red;
+    display: flex;
+    text-align: center;
+    
+}
+main p{
+    color: black;
+}
+main section div img{
+    width: 10vw;
+}
